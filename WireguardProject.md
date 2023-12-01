@@ -19,7 +19,7 @@
 
      b.  sudo apt install apt-transport-https ca-certificates curl software-properties-common #Let apt use packages over HTTPS
 
-     c. curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg #Add GPG key for Docker repository
+     c. curl -fsSL https://download.docker.com/linux/ubuntu/gpg \| sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg #Add GPG key for Docker repository
 
      d. echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 #Add docker repository to APT sources
