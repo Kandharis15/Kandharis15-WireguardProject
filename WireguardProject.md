@@ -3,12 +3,12 @@
 1. **Create Digital Ocean Account**
 
 2. **Create Ubuntu droplet**
-a. Go to manage on Digital ocean account, then droplets.  
-b. Ubuntu version 23.10 x64. Choosing $6 version.
+a. Go to manage on Digital ocean account, then droplets.
+b. Ubuntu version 23.10 x64. Choosing $6 version.  
 c. Give either SSH key or password
 d. After creating droplet, you can ssh into droplet using Putty (windows), local terminal, or the console that comes with the droplet. I'm using local terminal from my laptop for SSHing into droplet. You can run this command: ssh root@dropletIPAddress
 
-3. **Install Docker using the following steps:**
+4. **Install Docker using the following steps:**
 a. sudo apt update #Update any packages
 b.  sudo apt install apt-transport-https ca-certificates curl software-properties-common #Let apt use packages over HTTPS
 c. curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg #Add GPG key for Docker repository
@@ -82,11 +82,8 @@ c. Name the VPN and make sure it is active. After that, you can go to IPleak.net
 
 6. **Get Wireguard for Laptop**
 a. Make sure you download Wireguard for your laptop.
-
 b. Need Config file. Make sure you're in the Wireguard directory. Then, cd into the config directory.
-
 c. Next, cd into a pc config directory (E.g.: My PC config file was located inside peer_pc1).
-
 d. Run the ls command and find the conf file. My config file was called peer_pc1.conf.
 e. Run nano peer_pc1.conf and copy all the contents in the file.
 f. Open the Wireguard application on the desktop and choose "Add Tunnel." Choose the empty tunnel option, and copy and paste all the contents from
