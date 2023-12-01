@@ -87,7 +87,7 @@
     
 
 **CHANGES NEEDED:**
-1. Change timezone (TZ) to the one you are located in. I am in Chicago's time zone. For that timezone, you would type (in TZ): America/Chicago
+1. Change timezone (TZ) to the one you are located in. I am in Chicago's time zone. For that timezone, you would type (in TZ): America/Chicago.
    Here's where the link that tells you what to put in for TZ depending on where you live: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 2. Replace SERVERURL with IP Address of droplet
 
