@@ -91,24 +91,24 @@ the config file into the dialog box. Then, save it under a name, and now your tu
 g. Make sure your tunnel is showing as "active." FInally, go to IPLeak.Net on your laptop and make sure the IP address of your droplet shows up under "your IP addresses." At this point, you now have a Wireguard VPN connection for both your phone and laptop.
 
 
-# Here are some screenshots to show what my final results looked like for both my phone and laptop:
+# Here are some screenshots to show what my final results looked like for both my phone and laptop: Copy and paste ONLY the GitHub URL to view the images.
 
 Phone images:
 
 Screenshot 1: IP address before turning on VPN:
-![IP address](IPAdBefore.PNG)
+![IPAdBefore](https://github.com/Kandharis15/Kandharis15-WireguardProject/assets/122307869/1ae15f43-f3ab-4bcb-b861-0e9d65b679f6)
 
 Screenshot 2: IP address after turning on VPN:
-![IP address](IPWithVPN.PNG)
+![IPWithVPN](https://github.com/Kandharis15/Kandharis15-WireguardProject/assets/122307869/f49ce7f2-fdec-41a0-84d0-7e4edc028514)
 
-Screenshot 3: Active VPN for phone:
-![IP address](PhoneVPNTunnel.PNG)
+3: Active VPN for phone:
+![PhoneVPNTunnel](https://github.com/Kandharis15/Kandharis15-WireguardProject/assets/122307869/c32b7116-7f26-49ad-8081-26fe6da7fe28)
 
 
 Laptop images:
 
 Screenshot 1: 3 way photo showing IP address before/after turning on VPN and interface of desktop version of Wireguard:
-![IP address](VPNLaptop.png)
+![VPNLaptop](https://github.com/Kandharis15/Kandharis15-WireguardProject/assets/122307869/db171141-14b2-47a1-863e-5dade77d22da)
 
 
 
