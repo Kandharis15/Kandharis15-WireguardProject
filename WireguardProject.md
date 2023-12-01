@@ -3,7 +3,7 @@
 1. **Create Digital Ocean Account**
 
 2. **Create Ubuntu droplet**
-a. Go to manage on Digital ocean account, then droplets.
+a. Go to manage on Digital ocean account, then droplets.  
 b. Ubuntu version 23.10 x64. Choosing $6 version.
 c. Give either SSH key or password
 d. After creating droplet, you can ssh into droplet using Putty (windows), local terminal, or the console that comes with the droplet. I'm using local terminal from my laptop for SSHing into droplet. You can run this command: ssh root@dropletIPAddress
