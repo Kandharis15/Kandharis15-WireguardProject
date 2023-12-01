@@ -93,21 +93,21 @@ g. Make sure your tunnel is showing as "active." FInally, go to IPLeak.Net on yo
 
 # Here are some screenshots to show what my final results looked like for both my phone and laptop: Copy and paste ONLY the GitHub URL to view the images.
 
-Phone images:
+# Phone images:
 
-Screenshot 1: IP address before turning on VPN:
+# Screenshot 1: IP address before turning on VPN:
 ![IPAdBefore](https://github.com/Kandharis15/Kandharis15-WireguardProject/assets/122307869/1ae15f43-f3ab-4bcb-b861-0e9d65b679f6)
 
-Screenshot 2: IP address after turning on VPN:
+# Screenshot 2: IP address after turning on VPN:
 ![IPWithVPN](https://github.com/Kandharis15/Kandharis15-WireguardProject/assets/122307869/f49ce7f2-fdec-41a0-84d0-7e4edc028514)
 
-3: Active VPN for phone:
+# Screenshot 3: Active VPN for phone:
 ![PhoneVPNTunnel](https://github.com/Kandharis15/Kandharis15-WireguardProject/assets/122307869/c32b7116-7f26-49ad-8081-26fe6da7fe28)
 
 
-Laptop images:
+# Laptop images:
 
-Screenshot 1: 3 way photo showing IP address before/after turning on VPN and interface of desktop version of Wireguard:
+# Screenshot 1: 3 way photo showing IP address before/after turning on VPN and interface of desktop version of Wireguard:
 ![VPNLaptop](https://github.com/Kandharis15/Kandharis15-WireguardProject/assets/122307869/db171141-14b2-47a1-863e-5dade77d22da)
 
 
