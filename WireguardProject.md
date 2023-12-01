@@ -82,8 +82,11 @@ c. Name the VPN and make sure it is active. After that, you can go to IPleak.net
 
 6. **Get Wireguard for Laptop**
 a. Make sure you download Wireguard for your laptop.
+
 b. Need Config file. Make sure you're in the Wireguard directory. Then, cd into the config directory.
+
 c. Next, cd into a pc config directory (E.g.: My PC config file was located inside peer_pc1).
+
 d. Run the ls command and find the conf file. My config file was called peer_pc1.conf.
 e. Run nano peer_pc1.conf and copy all the contents in the file.
 f. Open the Wireguard application on the desktop and choose "Add Tunnel." Choose the empty tunnel option, and copy and paste all the contents from
@@ -91,8 +94,7 @@ the config file into the dialog box. Then, save it under a name, and now your tu
 g. Make sure your tunnel is showing as "active." FInally, go to IPLeak.Net on your laptop and make sure the IP address of your droplet shows up under "your IP addresses." At this point, you now have a Wireguard VPN connection for both your phone and laptop.
 
 
-# Here are some screenshots to show what my final results looked like for both my phone and laptop: Copy and paste ONLY the GitHub URL to view the images.
-
+# Here are some screenshots to show what my final results looked like for both my phone and laptop:
 # Phone images:
 
 # Screenshot 1: IP address before turning on VPN:
